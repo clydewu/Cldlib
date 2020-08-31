@@ -1,8 +1,8 @@
 # Cldlib
 
 * Semaphore
-  * STL of C++11 have no semphore.
-  * Use condition variable implement semphore.
+  * STL of C++11 have no semaphore.
+  * Use condition variable implement semaphore.
 
 * I need a queue with limitations of maximum and minimum.
   * If the queue size => max, the thread who want to push() will hang up for waiting.
